@@ -1,0 +1,75 @@
+
+body {background-image: url(https://preppywallpapers.com/wp-content/uploads/2018/08/Pastel-iPhone-Wallpaper-1.jpg)}
+
+.bloque1 {
+    
+    display: flex;
+    justify-content: center
+}
+
+.bloque2 {
+    display: flex;
+    justify-content: center
+}
+
+.bloque3, .bloque4{
+    display: flex;
+    justify-content: center;
+   
+
+}
+.cajamed {order: solid yellow 1px;
+   width: 20%
+}
+
+
+.bloqueizq {border: solid blue 1px;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+}
+
+
+.bloque1_5 {
+ 
+   display: flex;
+  justify-content: center   
+ }
+
+
+.resultado {border: solid 4px rgb(228, 216, 255);
+    background: rgb(253, 253, 219);
+border-radius: 5px;
+width: 600px;
+height: 50px;
+display: flex;
+justify-content: center;
+align-items: center }
+
+.tijera1, .piedra1, .papel1{
+    width: 100px;
+    height: 100px;
+}
+
+
+.tijera2,.piedra2,.papel2 {
+    width: 100px;
+    height: 100px;
+}
+
+.boton {color:white; font-size: 20px;
+    background: rgb(102, 172, 204); 
+    border-radius: 5px;
+    width: 300px;
+    height: 60px;
+}
+
+.boton2{
+    width: 100px;
+    height: 30px;
+
+}
+
+input {
+  display: none
+}
